@@ -1,6 +1,6 @@
 # CAMERO: Consistency Regularized Ensemble of Perturbed Language Models with Weight Sharing
 
-This repo contains our codes for the paper ["CAMERO: Consistency Regularized Ensemble of Perturbed Language Models with Weight Sharing"]() (ACL 2022). Paper link will be coming out soon.
+This repo contains our codes for the paper ["CAMERO: Consistency Regularized Ensemble of Perturbed Language Models with Weight Sharing"]() (ACL 2022). We propose a parameter-efficient ensemble approach for large-scale language models based on consistency-regularized perturbed models with weight sharing. Paper link will be coming out soon.
 
 </br>
 
